@@ -1,5 +1,5 @@
 import "./src/assets/tailwind.css";
-import { getTodo } from "/src/js/fetch-products";
+import { getTodo } from "/src/js/create-products";
 import { deleteProduct } from "./src/js/delete-product";
 
 // import { fetchProducts, getTodo } from "./src/js/fetch-products";

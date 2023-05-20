@@ -1,4 +1,4 @@
-import {getTodo} from "./fetch-products";
+import {getTodo} from "./create-products";
 
 export async function deleteProduct(e) {
   const api =
